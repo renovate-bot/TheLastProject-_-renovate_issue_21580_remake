@@ -1,0 +1,5 @@
+collections:
+  - name: community.docker
+    source: git@github.com:ansible-collections/community.docker
+    type: git
+    version: 2.7.5
